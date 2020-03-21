@@ -1,5 +1,5 @@
 # Cyber Security Feeds Related to Coronavirus (covid19)
-This repository is developed by ![ScanTitan](https://scantitan.com) to contain all related Cyber security Threat intelligence feeds of Coronavirus (scammers, spammers, malicious activities...etc)
+This repository is developed by [ScanTitan](https://scantitan.com) to contain all related Cyber security Threat intelligence feeds of Coronavirus (scammers, spammers, malicious activities...etc)
 
 The results contain:
 * Malicious IPs
