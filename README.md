@@ -6,6 +6,8 @@ The results contain:
 * Malicious new domains
 * All new domains
 
+The analysis are on domains registered from Dec 2019 onwards.
+
 ScanTitan Threat Intelligence will update the above list automatically every two days on GitHub directly.
 
 In March, we noticed a leap in domain name registrations related to Coronavirus. Starting from the first of March till the 17th of March, we analyzed about 11,00 new domains related to Coronavirus.
