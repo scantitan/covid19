@@ -6,7 +6,7 @@ The results contain:
 * Malicious new domains
 * All new domains
 
-The analysis are on domains registered from Dec 2019 onwards.
+The analysis done on domains registered from Dec 2019 onwards.
 
 ScanTitan Threat Intelligence will update the above list automatically every two days on GitHub directly.
 
